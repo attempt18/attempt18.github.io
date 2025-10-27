@@ -32,7 +32,7 @@ Parents can contact us to:
 - Request deletion of data
 - Ask questions about our privacy practices
 
-Contact: mailto:reading_ranger@stephens.earth
+Contact: [Reading Ranger Support](mailto:reading_ranger@stephens.earth)
 
 ## 6. Data Security
 We implement industry-standard security measures to protect all data collected. No data is shared with unauthorized parties.
