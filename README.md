@@ -19,7 +19,7 @@ The information collected is used solely to:
 
 - Improve app performance and user experience
 - Ensure app stability and security
-- 
+
 We do not use this data for advertising, profiling, or third-party marketing.
 
 ## 4. Third-Party Services
